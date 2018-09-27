@@ -1,0 +1,11 @@
+{
+    "token": "6f16c3e6-6311-49e5-aa19-162a1dd805b5",
+    "version": "0.0.1",
+    "title": "The Power of Tens",
+    "deck": [
+        {"front": "10^0     Hint: No zeroes!", "back": "1"},
+        {"front": "10^1", "back": "10     1 Zero :)"},
+        {"front": "10^2", "back": "100"},
+        {"front": "10^3", "back": "1000"}
+    ]
+}
